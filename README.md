@@ -1,7 +1,9 @@
-Simple Camera Demo
+SimpleCameraDemo
 ================
 
 In the beginning...
+
+My own local changes
 
 Here is another comment...
 
@@ -15,9 +17,12 @@ Some more text here.
 
 Arvid Sigvardsson
 
+Another change...
+
 Adding more comments..
 
 Multiple rows.
 
-Adding a new row in the end...
+Here comes more changes
 
+Adding a new row in the end...
